@@ -24,7 +24,7 @@ A comprehensive Hospital Management System built with Java/JEE as part of the VT
 ## 🚀 How to Run
 
 ### 1. Clone the Repository
-git clone https://github.com/partha-09/Hospital-Management-System-Java-DBMS-Project.git
+git clone https://github.com/Sidsuperkn/Hospital_Management_System
 ### 2. Import Project into Eclipse IDE
 Open Eclipse IDE.
 Go to File > Import > Existing Projects into Workspace.
@@ -110,7 +110,7 @@ Your contributions are greatly appreciated and will help make this project even 
 
 
 ### What's Updated:
-1. Repository URL: `https://github.com/partha-09/Hospital-Management-System-Java-DBMS-Project.git`.
+1. Repository URL: `https://github.com/Sidsuperkn/Hospital_Management_System`.
 2. Name: **Siddharth kumar**.
 3. Email: **siddharthkumar.jsr@gmail.com**.
 4. Phone: **+91 9279898790**.
