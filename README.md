@@ -1,6 +1,6 @@
-# VTU DBMS Mini Project: Hospital Management System
+# ITER DBMS Mini Project: Hospital Management System
 
-A comprehensive Hospital Management System built with Java/JEE as part of the VTU DBMS Mini Project curriculum. The project demonstrates a full-stack application with Java/JEE for the backend, MySQL for database management, and HTML, CSS, Bootstrap, and JavaScript for the front end. It is developed in Eclipse IDE and deployed using Apache Tomcat Server.
+A comprehensive Hospital Management System built with Java/JEE as part of the ITER DBMS Mini Project curriculum. The project demonstrates a full-stack application with Java/JEE for the backend, MySQL for database management, and HTML, CSS, Bootstrap, and JavaScript for the front end. It is developed in Eclipse IDE and deployed using Apache Tomcat Server.
 ---
 
 ## 🌟 Key Features
@@ -46,13 +46,13 @@ Open your browser and navigate to the application URL (e.g., http://localhost:80
 
 This project is perfect for:
 
-VTU Students: Ideal for DBMS mini-projects as part of the curriculum.
+ITER Students: Ideal for DBMS mini-projects as part of the curriculum.
 Developers: Learn how to build and deploy full-stack applications with Java and MySQL.
 Academic Use: A reference for academic projects focusing on database integration.
 
 ## 📌 Topics
 
-- **vtu-dbms-mini-project**
+- **ITER-dbms-mini-project**
 - **java-project**
 - **hospital-management-system**
 - **mysql-database**
